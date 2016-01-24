@@ -6,7 +6,7 @@ Project Velocity Core Mod
 
 Project: Velocity is a work in progress mod that will add vehicles into Minecraft. Once finished, Project: Velocity will feature over 50 Unique customizable vehicles. Customizations will include tune-ups, body kits, spoilers, vinyls, paint, hoods and more.
 
-Development Team:
+# Development Team:
 
 
 
